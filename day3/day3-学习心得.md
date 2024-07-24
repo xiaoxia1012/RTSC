@@ -139,23 +139,17 @@ static void led_name_entry(void *parameter)
 我个人理解，信号量有点类似标志位的概念。当按键线程中按键被触发，释放一个信号，同时一直阻塞的led线程收到该信号，开始执行逻辑。在本例程里就信号量就类似开关的作用，一个释放一个接收。之所以灯会一直亮是因为，信号量被释放后没有被销毁导致的。
 
 ### 示例结果
-
 ![1.png](./picture/1.png)
-
 还有就是从env上下载线上的一些示例代码。
 
 配置软件包
 ![2.png](./picture/1.png)
-
 下载在线软件包
 ![3.png](./picture/1.png)
-
 编译
 ![4.png](./picture/1.png)
-
 烧录后打开msh命令后可以看到
 ![5.png](./picture/1.png)
-
 将命令导入msh控制台
 ![6.png](./picture/1.png)
 
