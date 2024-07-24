@@ -145,23 +145,23 @@ static void led_name_entry(void *parameter)
 
 配置软件包
 
-![2.png](./picture/1.png)
+![2.png](./picture/2.png)
 
 下载在线软件包
 
-![3.png](./picture/1.png)
+![3.png](./picture/3.png)
 
 编译
 
-![4.png](./picture/1.png)
+![4.png](./picture/4.png)
 
 烧录后打开msh命令后可以看到
 
-![5.png](./picture/1.png)
+![5.png](./picture/5.png)
 
 将命令导入msh控制台
 
-![6.png](./picture/1.png)
+![6.png](./picture/6.png)
 
 
 
