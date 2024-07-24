@@ -145,18 +145,18 @@ static void led_name_entry(void *parameter)
 还有就是从env上下载线上的一些示例代码。
 
 配置软件包
-![image.png](2)
+![1.png](2)
 
 下载在线软件包
-![image.png](3)
+![2.png](3)
 
 编译
-![image.png](4)
+![3.png](4)
 
 烧录后打开msh命令后可以看到
-![image.png](5)
+![4.png](5)
 
 将命令导入msh控制台
-![image.png](6)
+![5.png](6)
 
 
