@@ -140,17 +140,28 @@ static void led_name_entry(void *parameter)
 
 ### 示例结果
 ![1.png](./picture/1.png)
+
 还有就是从env上下载线上的一些示例代码。
 
 配置软件包
+
 ![2.png](./picture/1.png)
+
 下载在线软件包
+
 ![3.png](./picture/1.png)
+
 编译
+
 ![4.png](./picture/1.png)
+
 烧录后打开msh命令后可以看到
+
 ![5.png](./picture/1.png)
+
 将命令导入msh控制台
+
 ![6.png](./picture/1.png)
+
 
 
