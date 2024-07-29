@@ -19,3 +19,5 @@
 
 剩下的操作就跟linux里的指令大差不差了，例如创建文件夹用`mkdir`等命令
 ![创建文件.png](../创建文件.png)
+
+更新[【2024-RSOC】day5 RTT软件包学习](https://club.rt-thread.org/ask/article/08339a766ece01b1.html)
